@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3\\HK2\\devops\\4801104006\\4801104006\\4801104006.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Source\\Repos\\4801104006\\4801104006\\4801104006.csproj",
       "projectName": "4801104006",
-      "projectPath": "D:\\3\\HK2\\devops\\4801104006\\4801104006\\4801104006.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Source\\Repos\\4801104006\\4801104006\\4801104006.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\3\\HK2\\devops\\4801104006\\4801104006\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Source\\Repos\\4801104006\\4801104006\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
